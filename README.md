@@ -11,5 +11,5 @@ Covid Tracker App
     3. Implement RecyclerView
     4. Set Data to RecyclerView using custom Layout and Adapter
 <br><p align="center">
-  <img src="https://github.com/aditya3901/CovidTrackerApp/blob/master/CC.jpeg" width="200" height="400" /><img src="https://github.com/aditya3901/CovidTrackerApp/blob/master/covid1.jpeg" width="200" height="400" />
+  <img src="https://github.com/aditya3901/CovidTrackerApp/blob/master/CC.png" width="200" height="400" /><img src="https://github.com/aditya3901/CovidTrackerApp/blob/master/covid1.png" width="200" height="400" />
 </p>
